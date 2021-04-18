@@ -2,7 +2,7 @@
 
 ## Project Title: Loan Calculator Project
 
-### Project Objective: More experience with vanilla javascript: learn how to use local storage
+### Project Objective: More experience with vanilla javascript
 
 ## Table of contents
 
